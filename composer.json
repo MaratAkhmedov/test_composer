@@ -1,0 +1,16 @@
+{
+    "name": "oneko/hello_world",
+    "description": "my first project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marat Akhmedov",
+            "email": "igugle4@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
