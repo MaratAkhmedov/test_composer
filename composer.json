@@ -13,5 +13,6 @@
         "psr-4": {"HelloWorld\\": "src/"}
     },
     "require": {},
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable" : true
 }
